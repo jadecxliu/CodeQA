@@ -17,8 +17,7 @@ A few examples of CodeQA data format are shown in `data_sample`. Each one contai
 
 ## Acknowledgements
 
-Our CodeQA dataset is based on two code summarization datasets, [code-docstring-corpus](https://github.com/EdinburghNLP/
-code-docstring-corpus) and [TL-CodeSum](https://github.com/xing-hu/TL-CodeSum).
+Our CodeQA dataset is based on two code summarization datasets, [code-docstring-corpus](https://github.com/EdinburghNLP/code-docstring-corpus) and [TL-CodeSum](https://github.com/xing-hu/TL-CodeSum).
 
 We are thankful to the authors for making dataset and code available.
 
