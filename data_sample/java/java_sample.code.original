@@ -1,0 +1,1 @@
+public static int count ( String string , String mark ) { if ( ! TextUtils . isEmpty ( string ) && ! TextUtils . isEmpty ( mark ) ) { int count = _NUM ; int index = string . indexOf ( mark ) ; while ( index != - _NUM ) { count ++ ; string = string . substring ( index + mark . length ( ) ) ; index = string . indexOf ( mark ) ; } return count ; } return _NUM ; }

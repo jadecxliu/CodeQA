@@ -1,0 +1,1 @@
+def html_to_xhtml html try html html getroot except AttributeError passprefix '{%s}' % XHTML_NAMESPACE for el in html iter etree Element tag el tagif tag[0] '{' el tag prefix + tag
