@@ -23,6 +23,8 @@ Source code can be found [here](https://github.com/wasiahmad/NeuralCodeSum).
 
 ## Experiments on CodeBERT
 
+`cd codeBERT`
+
 ### Dependency
 
 - pip install torch
